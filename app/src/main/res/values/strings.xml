@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MAPD721-T1-DmytroAndriichuk</string>
+    <string name="stop_service">Stop Service</string>
+    <string name="generate_message">Generate Message</string>
+</resources>
